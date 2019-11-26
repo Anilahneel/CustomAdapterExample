@@ -1,0 +1,2 @@
+# CustomAdapterExample
+CustomAdapter example
